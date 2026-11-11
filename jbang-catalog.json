@@ -10,6 +10,11 @@
       "script-ref": "https://github.com/dvarahq/dvara-bifrost-importer/releases/download/v0.1.0/dvara-bifrost-importer.jar",
       "description": "Convert a Bifrost config.json into a DVARA gateway.yaml, with a report of what maps",
       "java": "25"
+    },
+    "portkey-to-dvara": {
+      "script-ref": "https://github.com/dvarahq/dvara-portkey-importer/releases/download/v0.1.0/dvara-portkey-importer.jar",
+      "description": "Convert a Portkey gateway config into a DVARA gateway.yaml, with a report of what maps",
+      "java": "25"
     }
   }
 }
