@@ -1,0 +1,10 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "litellm-to-dvara": {
+      "script-ref": "https://github.com/dvarahq/dvara-litellm-importer/releases/download/v0.1.0/dvara-litellm-importer.jar",
+      "description": "Convert a LiteLLM proxy config.yaml into a DVARA gateway.yaml, with a report of what maps",
+      "java": "25"
+    }
+  }
+}
